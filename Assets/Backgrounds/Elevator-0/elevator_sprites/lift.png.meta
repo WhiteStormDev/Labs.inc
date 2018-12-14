@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 283b20a1c07603e4f83ad03adff2360e
+timeCreated: 1534282419
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OKAY_0
+    21300002: OKAY_1
+    21300004: OKAY_2
+    21300006: OKAY_3
+    21300008: OKAY_4
+    21300010: OKAY_5
+    21300012: OKAY_6
+    21300014: OKAY_7
+    21300016: OKAY_8
+    21300018: OKAY_9
+    21300020: OKAY_10
+    21300022: OKAY_11
+    21300024: OKAY_12
+    21300026: OKAY_13
+    21300028: OKAY_14
+    21300030: OKAY_15
+    21300032: OKAY_16
+    21300034: OKAY_17
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OKAY_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2020
+        width: 2123
+        height: 2850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_1
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 4628
+        width: 357
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49082318, y: 0.15515009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_2
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 4205
+        width: 563
+        height: 731
+      alignment: 9
+      pivot: {x: 0.52909434, y: 0.07424547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_3
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 4359
+        width: 498
+        height: 577
+      alignment: 9
+      pivot: {x: 0.55920607, y: 0.36373314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_4
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 3599
+        width: 678
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_5
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 3586
+        width: 1124
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_6
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3304
+        width: 1520
+        height: 50
+      alignment: 9
+      pivot: {x: 0.027987992, y: 0.43447265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_7
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 3085
+        width: 197
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_8
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1902
+        width: 1373
+        height: 1144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 120
+        width: 1737
+        height: 1733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_10
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 330
+        width: 1390
+        height: 1386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_11
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 782
+        width: 1527
+        height: 1540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_12
+      rect:
+        serializedVersion: 2
+        x: 4448
+        y: 2465
+        width: 252
+        height: 237
+      alignment: 9
+      pivot: {x: 0.48352632, y: 0.50583875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_13
+      rect:
+        serializedVersion: 2
+        x: 4778
+        y: 2370
+        width: 442
+        height: 430
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48069018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_14
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 2865
+        width: 172
+        height: 151
+      alignment: 9
+      pivot: {x: 0.45977357, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_15
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 2574
+        width: 274
+        height: 264
+      alignment: 9
+      pivot: {x: 0.52020305, y: 0.4842742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_16
+      rect:
+        serializedVersion: 2
+        x: 5174
+        y: 3071
+        width: 243
+        height: 227
+      alignment: 9
+      pivot: {x: 0.46013576, y: 0.5670591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OKAY_17
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 2894
+        width: 436
+        height: 445
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50621927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

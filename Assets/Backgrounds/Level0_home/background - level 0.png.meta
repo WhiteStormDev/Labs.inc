@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: c8862735f75af4541a45c4360a4dc61c
+timeCreated: 1532697502
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: background - level 0_0
+    21300002: background - level 0_1
+    21300004: background - level 0_2
+    21300006: background - level 0_3
+    21300008: background - level 0_4
+    21300010: background - level 0_5
+    21300012: background - level 0_6
+    21300014: background - level 0_7
+    21300016: background - level 0_8
+    21300018: background - level 0_9
+    21300020: background - level 0_10
+    21300022: background - level 0_11
+    21300024: background - level 0_12
+    21300026: background - level 0_13
+    21300028: background - level 0_14
+    21300030: background - level 0_15
+    21300032: background - level 0_16
+    21300034: background - level 0_17
+    21300036: background - level 0_18
+    21300038: background - level 0_19
+    21300040: background - level 0_20
+    21300042: background - level 0_21
+    21300044: background - level 0_22
+    21300046: background - level 0_23
+    21300048: background - level 0_24
+    21300050: background - level 0_25
+    21300052: background - level 0_26
+    21300054: background - level 0_27
+    21300056: background - level 0_28
+    21300058: background - level 0_29
+    21300060: background - level 0_30
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background - level 0_0
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 6887
+        width: 267
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_1
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 7096
+        width: 49
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5000025, y: 0.15624663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 6940
+        width: 56
+        height: 113
+      alignment: 9
+      pivot: {x: 0.52871484, y: 0.25811064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 6835
+        width: 275
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_4
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 6938
+        width: 38
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_5
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 7295
+        width: 252
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 6439
+        width: 278
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6199
+        width: 371
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 6032
+        width: 393
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5772
+        width: 923
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5286
+        width: 1008
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_11
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 5282
+        width: 1773
+        height: 1125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 6523
+        width: 2390
+        height: 1669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_13
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 5469
+        width: 71
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_14
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 5467
+        width: 364
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_15
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 5934
+        width: 477
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_16
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 6794
+        width: 294
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_17
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 6955
+        width: 171
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_18
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 7069
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_19
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 7293
+        width: 340
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_20
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 7300
+        width: 310
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_21
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 7294
+        width: 647
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_22
+      rect:
+        serializedVersion: 2
+        x: 4727
+        y: 6714
+        width: 805
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_23
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 6046
+        width: 253
+        height: 619
+      alignment: 9
+      pivot: {x: 0.33393806, y: 0.92663395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_24
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 6066
+        width: 253
+        height: 578
+      alignment: 9
+      pivot: {x: 0.29123566, y: 0.9319752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_25
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 6440
+        width: 130
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5923377, y: 0.84524506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_26
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 6039
+        width: 247
+        height: 354
+      alignment: 9
+      pivot: {x: 0.38822114, y: 0.8526577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_27
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 5662
+        width: 208
+        height: 317
+      alignment: 9
+      pivot: {x: 0.26338312, y: 0.9051795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_28
+      rect:
+        serializedVersion: 2
+        x: 5026
+        y: 5641
+        width: 206
+        height: 362
+      alignment: 9
+      pivot: {x: 0.3601477, y: 0.8747073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_29
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 6268
+        width: 537
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background - level 0_30
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 7154
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
